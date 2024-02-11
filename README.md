@@ -2,8 +2,8 @@
 This is a simple guide to set up a file-based logger for a Gin server in Golang. This logger provides four methods to write logs to respective files: info.log, debug.log, warn.log, and error.log.
 
 ## Requirements
-- Go installed on your system
-- Gin framework [github.com/gin-gonic/gin] installed in your project
+- Go installed on your system.
+- Gin framework [github.com/gin-gonic/gin] installed in your project.
 
 ## Installation
 ```
